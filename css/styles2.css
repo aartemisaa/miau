@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.fondoazul {
+    background-color: lightblue;
+    height: 4rem;
+}
+
+.fondoamarillo {
+    background-color: lemonchiffon;
+    height: 10rem;
+}
+
+.fondolila {
+    background-color: lavender;
+    height: 10rem;
+}
+.fondogris {
+    background-color: whitesmoke;
+    height: 10rem;
+}
+.fondorosita {
+    background-color: lavenderblush;
+    height: 10rem;
+}
